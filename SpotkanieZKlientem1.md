@@ -1,5 +1,5 @@
-## Autorka: [OllaWilk](https://github.com/OllaWilk)
 # Notatka ze spotkania z klientem:
+**Autorka: [OllaWilk](https://github.com/OllaWilk)**
 1. Admin dodaje/rejestruje wszystkich użytkowników (usera/hrowca). Można zrobić formularz dla admina.
 2. Robimy apke na widok desktopowy.
 3. User i HR nie mają widoku rejestracji.
