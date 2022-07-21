@@ -5,13 +5,13 @@
 ### [Backend](https://github.com/Jutrzenka/HeadHunterG11-BE)
 
 # Spis treści:
-- :cherries: [Repozytoria]()
-- :strawberry: [Logo projektu]()
-- :banana: [Dane od klienta i przydatne linki]()
-- :tangerine: [Lista osób w grupie i harmonogram]()
-- :peach: [Baza danych]()
-- :fish_cake: [SCRUM daily template]()
-- :egg: [Ważne notatki]()
+- :cherries: [Repozytoria](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#cherries-repozytoria)
+- :strawberry: [Logo projektu](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#strawberry-logo-projektu)
+- :banana: [Dane od klienta i przydatne linki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#banana-dane)
+- :tangerine: [Lista osób w grupie i harmonogram](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#tangerine-lista-os%C3%B3b-w-grupie)
+- :peach: [Baza danych](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#peach-baza-danych)
+- :fish_cake: [SCRUM daily template](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#fish_cake-scrum-daily-template)
+- :egg: [Ważne notatki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/edit/main/README.md#egg-wa%C5%BCne-notatki)
 
 
 ## :strawberry: Logo projektu:
@@ -57,3 +57,4 @@
 ```
 
 ## :egg: Ważne notatki:
+- [Notatka ze spotkania z klientem #1](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/SpotkanieZKlientem1.md#notatka-ze-spotkania-z-klientem)
