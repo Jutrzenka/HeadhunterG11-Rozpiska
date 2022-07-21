@@ -3,7 +3,7 @@
 ## :cherries: Repozytoria:
 ### [Frontend](https://github.com/Jutrzenka/HeadHunterG11-FR)
 ### [Backend](https://github.com/Jutrzenka/HeadHunterG11-BE)
-### [Backlog i Taski - dokumentacja]()
+### [Backlog i Taski - dokumentacja](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/Backlog.md)
 
 # Spis treści:
 - :cherries: [Repozytoria](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#cherries-repozytoria)
