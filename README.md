@@ -10,7 +10,7 @@
 - :strawberry: [Logo projektu](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#strawberry-logo-projektu)
 - :banana: [Dane od klienta i przydatne linki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#banana-dane)
 - :tangerine: [Lista osób w grupie i harmonogram](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#tangerine-lista-os%C3%B3b-w-grupie)
-- :mushroom: [Konfiguracja eslint w projektach]()
+- :mushroom: [Konfiguracja eslint w projektach](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#mushroom-konfiguracja-eslint-w-projektach)
 - :hibiscus: [Konfiguracja, struktura i tworzenie branchy](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#hibiscus-konfiguracja-struktura-i-tworzenie-branchy)
 - :peach: [Baza danych](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#peach-baza-danych)
 - :fish_cake: [SCRUM daily template](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#fish_cake-scrum-daily-template)
