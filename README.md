@@ -10,6 +10,7 @@
 - :strawberry: [Logo projektu](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#strawberry-logo-projektu)
 - :banana: [Dane od klienta i przydatne linki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#banana-dane)
 - :tangerine: [Lista osób w grupie i harmonogram](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#tangerine-lista-os%C3%B3b-w-grupie)
+- :hibiscus: [Konfiguracja, struktura i tworzenie branchy]()
 - :peach: [Baza danych](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#peach-baza-danych)
 - :fish_cake: [SCRUM daily template](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#fish_cake-scrum-daily-template)
 - :egg: [Ważne notatki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#egg-wa%C5%BCne-notatki)
@@ -43,6 +44,56 @@
 **Szczególne role:**
 - SM: **Jutrzenka#2251**
 - Autor materiałów DEMO: **Marcel998#5607**
+
+## :hibiscus: Konfiguracja, struktura i tworzenie branchy:
+Mamy dwa głowne branche
+1. main
+2. develop
+
+**Nowe branche tworzymy według wzoru.**
+
+Struktura nazwy brancha: `#{kod referencyjny}/{opis zadania}` np. `#0004/Konfiguracja_baz_danych`
+
+### Aby zakodować nową funkcję wpierw tworzycie branch pod dany Backlog z tabeli Trello.
+
+**Przykład:**
+Backlog z trello:
+
+![image](https://user-images.githubusercontent.com/93550588/180336093-9381929d-8485-407d-a279-26b3b6736f73.png)
+
+**Branch:**
+
+`#0004/Konfiguracja_baz_danych`
+
+### Następnie na bazie stworzonego brancha tworzycie nowy specjalnie pod dany task.
+
+**Przykład:**
+Task z trello:
+
+![image](https://user-images.githubusercontent.com/93550588/180336582-768ad26f-3a72-424d-95d4-0b981b4693d5.png)
+
+**Branch:**
+
+`#0004-4/MongoDB`
+
+#### UWAGA! W PRZYPADKU TAKSÓW (ALE NIE BACKLOGÓW) NIE MUSICIE PODAWAĆ PEŁNEJ NAZWY TASKA. MOŻECIE PODAĆ ZROZUMIAŁĄ SKRÓCONĄ WERSJĘ
+Możecie zmienić:
+`#0004-4/KONFIGURACJA_BAZ_DANYCH:Przygotować_schema_MongoDB`
+na
+`#0004-4/MongoDB`
+
+Prawidłowo wyglądająca struktura:
+
+![image](https://user-images.githubusercontent.com/93550588/180337827-7793946b-3ece-45b3-b664-d33c1d8d93d7.png)
+
+### Mergowanie
+Mergowanie odbywa się w następującym schemacie:
+
+`branch taska -> branch backloga -> branch develop -> branch main`
+
+**Przykład:**
+
+`#0004-4/MongoDB -> #0004/Konfiguracja_baz_danych -> (Gdy backlog zostanie wykonany w całości) -> develop -> main`
 
 ## :peach: Baza danych:
 ![BAZA DANYCH WYKRES](https://user-images.githubusercontent.com/93550588/180282358-76fd9627-83c7-4938-ae62-85926376089b.png)
