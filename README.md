@@ -10,6 +10,7 @@
 - :strawberry: [Logo projektu](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#strawberry-logo-projektu)
 - :banana: [Dane od klienta i przydatne linki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#banana-dane)
 - :tangerine: [Lista osób w grupie i harmonogram](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#tangerine-lista-os%C3%B3b-w-grupie)
+- :mushroom: [Konfiguracja eslint w projektach]()
 - :hibiscus: [Konfiguracja, struktura i tworzenie branchy](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#hibiscus-konfiguracja-struktura-i-tworzenie-branchy)
 - :peach: [Baza danych](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#peach-baza-danych)
 - :fish_cake: [SCRUM daily template](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#fish_cake-scrum-daily-template)
@@ -44,6 +45,28 @@
 **Szczególne role:**
 - SM: **Jutrzenka#2251**
 - Autor materiałów DEMO: **Marcel998#5607**
+
+## :mushroom: Konfiguracja eslint w projektach
+### Konfigurowanie eslint'a:
+
+![eslint](https://user-images.githubusercontent.com/93550588/180338326-6ba4c998-a7e3-4abb-8b3b-57c7f5639999.png)
+
+0. Znajdź w ustawieniach okienko ESlinta
+1. Zaznacz `Manual ESlint configuration`
+2. Wybierz `ESlint package` jako paczkę znajdującą się w `node_modules` tego projektu
+3. Zaznacz `Configuration file`, a następnie wybierz `.eslintrc.js` znajdujący się w tym projekcie
+4. Zaznacz `Run ESlint --fix on save
+5. ESlint powinien być skonfigurowany. Teraz przejdź do konfiguracji prettiera.
+
+### Konfigurowanie prettier'a:
+
+![prettier](https://user-images.githubusercontent.com/93550588/180338353-f1575b90-1bd0-46bb-98b2-03ae28f0c00b.png)
+
+0. Znajdź plugin prettier
+1. Wyłącz plugin (W tej konfiguracji ESlint sam używa prettiera, a plugin powoduje jedynie crashe)
+2. Konfiguracja powinna być gotowa!
+
+### Zrób tak dla Backendu i Frontendu!
 
 ## :hibiscus: Konfiguracja, struktura i tworzenie branchy:
 Mamy dwa głowne branche
