@@ -6,7 +6,7 @@
 ### [Backlog i Taski - dokumentacja](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/Backlog.md)
 
 # Spis treści:
-- :cherries: [Repozytoria](https://github.com/HeadhunterG11-Rozpiska/blob/main/README.md#cherries-repozytoria)
+- :cherries: [Repozytoria](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#cherries-repozytoria)
 - :strawberry: [Logo projektu](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#strawberry-logo-projektu)
 - :banana: [Dane od klienta i przydatne linki](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#banana-dane)
 - :tangerine: [Lista osób w grupie i harmonogram](https://github.com/Jutrzenka/HeadhunterG11-Rozpiska/blob/main/README.md#tangerine-lista-os%C3%B3b-w-grupie)
